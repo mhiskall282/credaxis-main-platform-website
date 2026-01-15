@@ -10,7 +10,7 @@ export const Hero = () => {
         <main className="text-5xl md:text-6xl font-bold">
           <h1 className="inline">
             <span className="inline bg-gradient-to-r from-[#F596D3] to-[#D247BF] text-transparent bg-clip-text">
-              Credora
+              Credaxis
             </span>{" "}
             - A Decentralised
           </h1>{" "}
@@ -34,7 +34,7 @@ export const Hero = () => {
             </Button>
           </Link>
           <a
-            href="https://github.com/M-DEV-1/Credora" // Replace with your actual GitHub repository link
+            href="https://github.com/M-DEV-1/Credaxis" // Replace with your actual GitHub repository link
             target="_blank"
             rel="noopener noreferrer"
             className="w-full md:w-1/3 inline-flex items-center justify-center border border-primary rounded-md p-2 text-primary transition-colors duration-300 hover:bg-primary hover:text-white"

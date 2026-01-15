@@ -11,7 +11,7 @@ export const Cta = () => {
             Empower Your Achievements with
             <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
               {" "}
-              Credora Certificates{" "}
+              Credaxis Certificates{" "}
             </span>
             in One Simple Interface
           </h2>

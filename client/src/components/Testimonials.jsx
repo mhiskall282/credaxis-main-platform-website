@@ -12,37 +12,37 @@ const testimonials = [
     image: "https://i.pravatar.cc/150?img=10", // Emma Watson
     name: "Emma Watson",
     userName: "@EmmaWatson",
-    comment: "Credora has transformed the way we approach our projects. Their tools make collaboration seamless and effective. Highly recommend!",
+    comment: "Credaxis has transformed the way we approach our projects. Their tools make collaboration seamless and effective. Highly recommend!",
   },
   {
     image: "https://i.pravatar.cc/150?img=20", // Dwayne Johnson
     name: "Dwayne Johnson",
     userName: "@TheRock",
-    comment: "Working with Credora was a game changer for our team. The platform is user-friendly and provides great support for any queries!",
+    comment: "Working with Credaxis was a game changer for our team. The platform is user-friendly and provides great support for any queries!",
   },
   {
     image: "https://i.pravatar.cc/150?img=30", // Taylor Swift
     name: "Taylor Swift",
     userName: "@taylorswift",
-    comment: "As a creative, I need tools that inspire me. Credora does just that. Their service is top-notch and the community is fantastic.",
+    comment: "As a creative, I need tools that inspire me. Credaxis does just that. Their service is top-notch and the community is fantastic.",
   },
   {
     image: "https://i.pravatar.cc/150?img=40", // Elon Musk
     name: "Elon Musk",
     userName: "@elonmusk",
-    comment: "Credora's innovative approach to project management is impressive. I appreciate their focus on both functionality and user experience. It’s rare to find a platform that balances power with usability, enabling teams to be more productive without sacrificing creativity. I believe that with tools like these, the future of collaboration is bright.",
+    comment: "Credaxis's innovative approach to project management is impressive. I appreciate their focus on both functionality and user experience. It’s rare to find a platform that balances power with usability, enabling teams to be more productive without sacrificing creativity. I believe that with tools like these, the future of collaboration is bright.",
   },
   {
     image: "https://i.pravatar.cc/150?img=50", // Leonardo DiCaprio
     name: "Leonardo DiCaprio",
     userName: "@LeoDiCaprio",
-    comment: "I've tried many platforms, but none compare to Credora's efficiency. It's not just a tool; it's a complete ecosystem for success.",
+    comment: "I've tried many platforms, but none compare to Credaxis's efficiency. It's not just a tool; it's a complete ecosystem for success.",
   },
   {
     image: "https://i.pravatar.cc/150?img=60", // Jennifer Lawrence
     name: "Jennifer Lawrence",
     userName: "@jlawrence",
-    comment: "Credora has really stepped up my productivity. The features are intuitive, and I love how responsive the team is to feedback. It feels like a partnership!",
+    comment: "Credaxis has really stepped up my productivity. The features are intuitive, and I love how responsive the team is to feedback. It feels like a partnership!",
   },
 ];
 
@@ -55,7 +55,7 @@ export const Testimonials = () => {
           {" "}
           People Love{" "}
         </span>
-        Credora
+        Credaxis
       </h2>
 
       <p className="text-xl text-muted-foreground pt-4 pb-8">

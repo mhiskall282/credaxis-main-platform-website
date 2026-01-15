@@ -1,6 +1,6 @@
 import React from 'react';
 import { Statistics } from "./Statistics";
-import pilot from "../assets/pilot.png"; // Update with a relevant image for Credora
+import pilot from "../assets/pilot.png"; // Update with a relevant image for Credaxis
 
 export const About = () => {
   return (
@@ -18,10 +18,10 @@ export const About = () => {
                 <span className="bg-gradient-to-b from-green-400 to-blue-500 text-transparent bg-clip-text">
                   About{" "}
                 </span>
-                Credora
+                Credaxis
               </h2>
               <p className="text-xl text-gray-700 mt-4">
-                Credora is dedicated to revolutionizing the way certificates are issued and managed using blockchain technology. 
+                Credaxis is dedicated to revolutionizing the way certificates are issued and managed using blockchain technology. 
                 We aim to provide a secure, transparent, and efficient solution for educational institutions and organizations to issue verifiable certificates.
               </p>
             </div>

@@ -13,7 +13,7 @@ function CertificateHome({ web3, account, error }) {
           <h1 className="inline">
             Welcome to{" "}
             <span className="inline bg-gradient-to-r from-[#F596D3] to-[#D247BF] text-transparent bg-clip-text">
-              Credora
+              Credaxis
             </span>
           </h1>
         </main>

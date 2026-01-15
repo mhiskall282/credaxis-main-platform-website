@@ -58,7 +58,7 @@ export const HeroCards = () => {
             alt="Mahadevan's Avatar"
             className="absolute grayscale-0 -top-12 rounded-full w-24 h-24 aspect-square object-cover"
           />
-          <CardTitle className="text-center">Mahadevan KS</CardTitle>
+          <CardTitle className="text-center">John Okyere</CardTitle>
           <CardDescription className="font-normal text-primary">
             Co-Founder & Developer
           </CardDescription>
@@ -107,7 +107,7 @@ export const HeroCards = () => {
 
             <a
               rel="noreferrer noopener"
-              href="https://www.linkedin.com/in/ksmahadevan/"
+              href="https://www.linkedin.com/in/johnokyere/"
               target="_blank"
               className={buttonVariants({
                 variant: "ghost",

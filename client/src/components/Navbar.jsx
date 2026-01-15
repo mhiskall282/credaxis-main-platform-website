@@ -53,7 +53,7 @@ const Navbar = () => {
               className="ml-2 font-bold text-xl flex"
             >
               <LogoIcon />
-              Credora
+              Credaxis
             </a>
           </NavigationMenuItem>
 
@@ -72,7 +72,7 @@ const Navbar = () => {
               <SheetContent side={"left"}>
                 <SheetHeader>
                   <SheetTitle className="font-bold text-xl">
-                    Credora
+                    Credaxis
                   </SheetTitle>
                 </SheetHeader>
                 <nav className="flex flex-col justify-center items-center gap-2 mt-4">
@@ -89,7 +89,7 @@ const Navbar = () => {
                   ))}
                   <a
                     rel="noreferrer noopener"
-                    href="https://github.com/GhostArymst/Credora.git" // Ensure this is the correct link to your GitHub
+                    href="https://github.com/GhostArymst/Credaxis.git" // Ensure this is the correct link to your GitHub
                     target="_blank"
                     className={`w-[110px] border ${buttonVariants({
                       variant: "secondary",

@@ -1,22 +1,22 @@
-# Credora: Decentralized Certificate Verification System
+# Credaxis: Decentralized Certificate Verification System
 
 ## Overview
 
-**Credora** is a decentralized certificate verification platform designed specifically for educational institutions. It enables the secure issuance of digital certificates on the Ethereum blockchain, streamlining the verification process for employers and institutions while eliminating reliance on traditional background checks.
+**Credaxis** is a decentralized certificate verification platform designed specifically for educational institutions. It enables the secure issuance of digital certificates on the Ethereum blockchain, streamlining the verification process for employers and institutions while eliminating reliance on traditional background checks.
 
 ## Live Demo
 
-Powerpoint Presentation: https://drive.google.com/file/d/15vEaewEvpACTD3X47PwQbk2o_H8waVrj/view?usp=sharing <br/>
+<!-- Powerpoint Presentation: https://drive.google.com/file/d/15vEaewEvpACTD3X47PwQbk2o_H8waVrj/view?usp=sharing <br/> -->
 
-Live Deployment: https://credora-chi.vercel.app/
+Live Deployment: https://
 
 ## How to Run
 
-To set up Credora locally, follow these steps:
+To set up Credaxis locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://www.github.com/M-DEV-1/Credora.git
+   git clone https://github.com/mhiskall282/credaxis-main-platform-website
    ```
 
 2. **Install Backend Dependencies:**

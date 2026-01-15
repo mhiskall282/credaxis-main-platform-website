@@ -8,8 +8,8 @@ import {
 
 const FAQList = [
   {
-    question: "Is Credora free to use?",
-    answer: "Yes, Credora allows users to issue and verify limited certificates for free on our platform.",
+    question: "Is Credaxis free to use?",
+    answer: "Yes, Credaxis allows users to issue and verify limited certificates for free on our platform.",
     value: "item-1",
   },
   {
@@ -21,12 +21,12 @@ const FAQList = [
   {
     question: "Can I verify a certificate?",
     answer:
-      "Yes, you can verify any certificate issued through Credora by entering the recipient's address or certificate ID on our verification page.",
+      "Yes, you can verify any certificate issued through Credaxis by entering the recipient's address or certificate ID on our verification page.",
     value: "item-3",
   },
   {
     question: "What type of certificates can I issue?",
-    answer: "Credora allows you to issue a variety of certificates, including educational credentials, achievement certificates, and more.",
+    answer: "Credaxis allows you to issue a variety of certificates, including educational credentials, achievement certificates, and more.",
     value: "item-4",
   },
   {
